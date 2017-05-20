@@ -3,7 +3,7 @@
 Simple script that reads in a file of newline separated raw markdown links.
 Downloads raw .md documents, renders them in .html, and then converts to .pdf.
 
-Usage: `python md2pdf.py link_file
+Usage: `python md2pdf.py link_file`
 
 # Dependencies
 * python2
